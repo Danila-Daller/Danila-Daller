@@ -15,7 +15,7 @@
 ![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=qase&logoColor=3C3B8B)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=00B5F0)
 
-### Testing Documentation
+### Testing Artefacts
 
 - [Checklists](https://github.com/artichokeee/checklist)
 - [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
