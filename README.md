@@ -21,7 +21,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Danila-Daller/Test-Suites-and-Test-Cases)
 - [Test-plan](https://github.com/Danila-Daller/Test-plan)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
+- [SQL Queries](https://github.com/Danila-Daller/SQL-Queries)
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
