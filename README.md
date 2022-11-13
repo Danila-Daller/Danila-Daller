@@ -18,7 +18,7 @@
 ### Testing Artefacts
 
 - [Checklists](https://github.com/Danila-Daller/Checklists)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/Danila-Daller/Test-Suites-and-Test-Cases)
 - [Test-plan] 
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
