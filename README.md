@@ -11,6 +11,9 @@
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![SoupUI](https://img.shields.io/badge/-SoupUI-090909?style=for-the-badge&logo=soupui&logoColor=6CB33F)
+![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=qase&logoColor=3C3B8B)
+![YouTrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=00B5F0)
 
 ### Testing Documentation
 
