@@ -22,7 +22,7 @@
 - [Test-plan](https://github.com/Danila-Daller/Test-plan)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/Danila-Daller/SQL-Queries)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://www.postman.com/telecoms-geologist-70982358/workspace/test-workspace/collection/22085721-218e6a60-76d6-44d1-b2e1-a0fea6656a18?ctx=documentation)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/danila_daller)
