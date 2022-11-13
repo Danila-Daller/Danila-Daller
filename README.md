@@ -19,7 +19,7 @@
 
 - [Checklists](https://github.com/Danila-Daller/Checklists)
 - [Test-Suites and Test-Cases](https://github.com/Danila-Daller/Test-Suites-and-Test-Cases)
-- [Test-plan] 
+- [Test-plan](https://github.com/Danila-Daller/Test-plan)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
