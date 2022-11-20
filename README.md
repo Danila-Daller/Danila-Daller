@@ -23,7 +23,7 @@
 - [Test-plan](https://github.com/Danila-Daller/Test-plan)
 - [Bug-Reports](https://github.com/Danila-Daller/Bug-Reports)
 - [SQL Queries](https://github.com/Danila-Daller/SQL-Queries)
-- [Bash Queries]()
+- [Bash Queries](https://github.com/Danila-Daller/Bash-Queries)
 - [Postman Collections](https://www.postman.com/telecoms-geologist-70982358/workspace/test-workspace/collection/22085721-218e6a60-76d6-44d1-b2e1-a0fea6656a18?ctx=documentation)
 
 ### Follow Me
