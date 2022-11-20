@@ -14,6 +14,7 @@
 ![SoupUI](https://img.shields.io/badge/-SoupUI-090909?style=for-the-badge&logo=soupui&logoColor=6CB33F)
 ![Qase](https://img.shields.io/badge/-Qase-090909?style=for-the-badge&logo=qase&logoColor=3C3B8B)
 ![YouTrack](https://img.shields.io/badge/-YouTrack-090909?style=for-the-badge&logo=YouTrack&logoColor=00B5F0)
+![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=00B5F0)
 
 ### Testing Artefacts
 
@@ -22,6 +23,7 @@
 - [Test-plan](https://github.com/Danila-Daller/Test-plan)
 - [Bug-Reports]()
 - [SQL Queries](https://github.com/Danila-Daller/SQL-Queries)
+- [Bash Queries]()
 - [Postman Collections](https://www.postman.com/telecoms-geologist-70982358/workspace/test-workspace/collection/22085721-218e6a60-76d6-44d1-b2e1-a0fea6656a18?ctx=documentation)
 
 ### Follow Me
